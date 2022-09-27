@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RequestHandlerApplication {
 
 	public static void main(String[] args) {
+		System.out.println("ghbdtn");
 		SpringApplication.run(RequestHandlerApplication.class, args);
 	}
 
